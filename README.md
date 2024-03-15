@@ -1,0 +1,2 @@
+# proyectonashe
+fuck vscode
